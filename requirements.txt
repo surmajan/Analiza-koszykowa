@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+matplotlib
+plotly
+mlxtend
+pyECLAT
+ipywidgets
+notebook
